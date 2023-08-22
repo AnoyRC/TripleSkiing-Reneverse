@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{32C3BDE6-E125-3128-82C1-25D0441455A3}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0fe487ff-11ae-487a-8851-cd7c369b718f" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerSelector.cs">
+    <Files>
+      <File FileName="Assets/TripleSkiing/Scripts/MapManager.cs" />
+      <File FileName="Assets/TripleSkiing/Scripts/UIManager.cs" Line="65" Column="28" />
+      <File FileName="Assets/StarterKit/Scripts/ReneverseMintManager.cs" Line="39" Column="10" />
+      <File FileName="Assets/StarterKit/Scripts/ReneverseAssetManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/StarterKit/Scripts/ReneverseManager.cs" Line="18" Column="51" />
+      <File FileName="Assets/AvatarController.cs" Line="35" Column="6" />
+      <File FileName="Assets/PlayerSelector.cs" Line="20" Column="80" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project" expanded="True" selected="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
